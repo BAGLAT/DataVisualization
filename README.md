@@ -2,6 +2,8 @@
 Minard's Map visualization using R and Nightangle Coxcomb using Python Plotly.
 1. Minard’s Map with Toner Mapping
 
+https://en.wikipedia.org/wiki/Charles_Joseph_Minard#The_map_of_Napoleon's_Russian_campaign
+
 The chart depicts Napoleon's army retreating the Polish-Russian border.
 A thick band depicts the size of his army at specific geographic points during their advance and retreat. It displays six types of
 data in two dimensions: the number of Napoleon's troops; the distance travelled, temperature, latitude and longitude, direction of 
@@ -34,6 +36,9 @@ Library:  library(tidyverse), library(lubridate), library(ggmap), library(ggrepe
 library(pander)
 
 3. Nightingale's Coxcomb
+
+https://understandinguncertainty.org/node/213
+
 Above wind rose chart depicts the annual rate of death toll per 10’000 in Hospitals of Turkey from Apr’1854-Mar’1855 where 
 soldiers were hospitalized due to the severe health conditions mainly due to Wounds & injury and Zymotic diseases.Each trace 
 displays a death count, year and the reason for death along with radius. Three main causes of deaths are shown as legends using 
