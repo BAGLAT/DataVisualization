@@ -1,4 +1,3 @@
-## Temperature of Minard 2nd Fig
 ## Mirad's Temperature Graph for Terrain Background
 library(dplyr)
 library(tidyverse)
