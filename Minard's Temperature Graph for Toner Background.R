@@ -1,4 +1,5 @@
-## Temperature 1st Fig Minard
+#Minard's Temperature Graph for Toner Background
+
 library(tidyverse)
 library(lubridate)
 library(ggmap)
